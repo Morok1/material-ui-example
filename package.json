@@ -1,5 +1,8 @@
 {
   "name": "untitled7",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "semantic-ui-react": "^0.88.1"
+  }
 }
